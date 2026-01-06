@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+}
+
+.app {
+  width: 420px;
+  margin: 90px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.panel {
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  display: none;
+}
+
+.user {
+  background: #dff0ff;
+}
+
+.admin {
+  background: #ffe0e0;
+}
